@@ -1,4 +1,4 @@
-![MasterHead](Gemini_Generated_Image_e1lgphe1lgphe1lg.png)
+![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWU5MTUzcWRlNGhtcjl2bnFpOHdjNnMyajZhYnMxd2JsZGx1azY1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)
 
 <h3 align="center">Coding Enthusiast / Learning Full-Stack & DSA</h3>
 
