@@ -1,3 +1,5 @@
+![MasterHead](Gemini_Generated_Image_e1lgphe1lgphe1lg.png)
+
 <h3 align="center">Coding Enthusiast / Learning Full-Stack & DSA</h3>
 
 🔭 Currently working on **DSA**  
