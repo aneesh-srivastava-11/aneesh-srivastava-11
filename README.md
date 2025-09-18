@@ -2,11 +2,11 @@
 
 🔭 Currently working on **DSA**  
 🌱 Learning **MERN STACK**  
-📫 Reach me at: **aneeshplays1175@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aneesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/aneesh-srivastava-6a2186344/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aneesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneesh-srivastava-6a2186344/)
+
 
 
 <h3 align="left">Languages & Tools:</h3>
